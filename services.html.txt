@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Services | Rahul & Associates</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Rahul & Associates</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<section class="section">
+    <h2>Our Services</h2>
+    <ul class="services-list">
+        <li>Accounting & Bookkeeping</li>
+        <li>Statutory Audit (as per Companies Act, 2013)</li>
+        <li>Internal & Concurrent Audit</li>
+        <li>Taxation (Direct & Indirect)</li>
+        <li>GST Registration & Compliance</li>
+        <li>Assurance Services</li>
+        <li>Financial & Management Consultancy</li>
+    </ul>
+</section>
+
+<footer>
+    <p>© 2025 Rahul & Associates</p>
+</footer>
+
+</body>
+</html>
