@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Us | Rahul & Associates</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Rahul & Associates</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<section class="section">
+    <h2>About Our Firm</h2>
+    <p>
+        Rahul & Associates is a firm of Chartered Accountants based in India,
+        offering professional services in accounting, auditing, taxation,
+        and regulatory compliance.
+    </p>
+    <p>
+        Our objective is to provide high-quality, timely, and value-driven
+        solutions while maintaining confidentiality and professional ethics
+        as prescribed by ICAI.
+    </p>
+</section>
+
+<footer>
+    <p>© 2025 Rahul & Associates</p>
+</footer>
+
+</body>
+</html>
