@@ -1,0 +1,6 @@
+document.getElementById("contactForm").addEventListener("submit", function(e) {
+    e.preventDefault();
+    document.getElementById("msg").innerText =
+        "Thank you for contacting Rahul & Associates. We will respond shortly.";
+    this.reset();
+});
